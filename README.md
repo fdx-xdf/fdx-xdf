@@ -1,7 +1,5 @@
 ## FDX
 
-[![Build Status](https://github.com/fdx-xdf/fdx-xdf.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/fdx-xdf/fdx-xdf.github.io/actions/workflows/pages-deploy.yml)
-
 
 Security Researcher. Graduate Student.
 
@@ -30,6 +28,9 @@ Security Researcher. Graduate Student.
   > 早期学习记录存档。
 - **GitHub**: [github.com/fdx-xdf](https://github.com/fdx-xdf)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fdx-xdf&show_icons=true&theme=radical" alt="FDX's Github Stats" />
+</p>
 
 <!--
 **fdx-xdf/fdx-xdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
